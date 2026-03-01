@@ -16,7 +16,7 @@
 
 ##### Connect With Me
 
-[![https://www.instagram.com/rafi.andara_/ ](https://skillicons.dev/icons?i=instagram,theme=light)](https://skillicons.dev)
+[![ ](https://skillicons.dev/icons?i=instagram,theme=light)](https://www.instagram.com/rafi.andara_/)
 
 ---
 
